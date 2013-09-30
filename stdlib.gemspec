@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.version       = "0.0.1"
   spec.authors       = ["Phillip Ridlen"]
   spec.email         = ["p@rdln.net"]
-  spec.description   = %q{Use Bundler to manage stdlib dependencies}
+  spec.description   = %q{Use Bundler to manage stdlib dependencies. You probably shouldn't use this.}
   spec.summary       = spec.description
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/philtr/stdlib"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

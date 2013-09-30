@@ -1,6 +1,7 @@
 # Stdlib
 
-Use [Bundler](http://bundler.io) to manage stdlib dependencies.
+Proof of concept to use [Bundler](http://bundler.io) to manage stdlib dependencies. You probably shouldn't use this. In
+fact, please don't. Seriously.
 
 ## Usage
 
